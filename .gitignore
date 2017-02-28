@@ -41,3 +41,8 @@ gradle-app.setting
 #Emacs.gitignore
 # We should not add emacs backup files.
 *~
+
+#IDE ignore
+# not interested in files needed by IDE's and their settings
+.idea
+.nb-gradle
